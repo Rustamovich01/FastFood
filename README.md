@@ -1,0 +1,2 @@
+# FastFood
+Taomlar ro'yxati
